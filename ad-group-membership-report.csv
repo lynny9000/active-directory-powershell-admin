@@ -1,0 +1,7 @@
+"GroupName","Name","SamAccountName","Department","Title","Enabled"
+"Sales-Users","Emiliano Martinez","emartinez","Sales","Sales Executive","False"
+"Sales-Users","Pau Torres","ptorres","HR","HR Assistant","True"
+"Sales-Users","Ollie Watkins","owatkins","Sales","Sales Executive","True"
+"HR-Users","Morgan Rogers","mrogers","HR","HR Coordinator","True"
+"IT-Users","John McGinn","jmcginn","IT","IT Support Technician","True"
+"IT-Users","Ezri Konsa","ekonsa","IT","Systems Support Technician","True"
