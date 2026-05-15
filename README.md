@@ -1,4 +1,4 @@
-# Active Directory PowerShell Admin Lab
+# Active Directory PowerShell Admin
 
 A Windows Server Active Directory runbook that uses PowerShell to complete common sysadmin tasks
 
